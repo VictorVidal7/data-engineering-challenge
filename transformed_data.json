@@ -1,0 +1,122 @@
+[
+    {
+        "product_id": 1,
+        "product_name": null,
+        "category": "men's clothing",
+        "price": 109.95
+    },
+    {
+        "product_id": 2,
+        "product_name": null,
+        "category": "men's clothing",
+        "price": 22.3
+    },
+    {
+        "product_id": 3,
+        "product_name": null,
+        "category": "men's clothing",
+        "price": 55.99
+    },
+    {
+        "product_id": 4,
+        "product_name": null,
+        "category": "men's clothing",
+        "price": 15.99
+    },
+    {
+        "product_id": 5,
+        "product_name": null,
+        "category": "jewelery",
+        "price": 695
+    },
+    {
+        "product_id": 6,
+        "product_name": null,
+        "category": "jewelery",
+        "price": 168
+    },
+    {
+        "product_id": 7,
+        "product_name": null,
+        "category": "jewelery",
+        "price": 9.99
+    },
+    {
+        "product_id": 8,
+        "product_name": null,
+        "category": "jewelery",
+        "price": 10.99
+    },
+    {
+        "product_id": 9,
+        "product_name": null,
+        "category": "electronics",
+        "price": 64
+    },
+    {
+        "product_id": 10,
+        "product_name": null,
+        "category": "electronics",
+        "price": 109
+    },
+    {
+        "product_id": 11,
+        "product_name": null,
+        "category": "electronics",
+        "price": 109
+    },
+    {
+        "product_id": 12,
+        "product_name": null,
+        "category": "electronics",
+        "price": 114
+    },
+    {
+        "product_id": 13,
+        "product_name": null,
+        "category": "electronics",
+        "price": 599
+    },
+    {
+        "product_id": 14,
+        "product_name": null,
+        "category": "electronics",
+        "price": 999.99
+    },
+    {
+        "product_id": 15,
+        "product_name": null,
+        "category": "women's clothing",
+        "price": 56.99
+    },
+    {
+        "product_id": 16,
+        "product_name": null,
+        "category": "women's clothing",
+        "price": 29.95
+    },
+    {
+        "product_id": 17,
+        "product_name": null,
+        "category": "women's clothing",
+        "price": 39.99
+    },
+    {
+        "product_id": 18,
+        "product_name": null,
+        "category": "women's clothing",
+        "price": 9.85
+    },
+    {
+        "product_id": 19,
+        "product_name": null,
+        "category": "women's clothing",
+        "price": 7.95
+    },
+    {
+        "product_id": 20,
+        "product_name": null,
+        "category": "women's clothing",
+        "price": 12.99
+    }
+]
